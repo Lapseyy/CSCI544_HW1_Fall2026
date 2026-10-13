@@ -1,3 +1,5 @@
 *.tsv
 *.gz
 venv/
+output_final.txt
+output.txt
